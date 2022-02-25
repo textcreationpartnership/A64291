@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new confutation of Sadducism being a true narrative of the wonderful expressions and actions of a spirit which infested the house of Andrew Mackie of Ringcroft in the county of Galloway in Scotland, from February to May 1695 : containing, among other things, predictions as to future times in a letter writ with blood, and dropt by the said spirit / writ by Mr. Alexander Telfair.</title>
+            <author>Telfair, Alexander.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64291</idno>
+            <idno type="STC">Wing T622</idno>
+            <idno type="STC">ESTC R2406</idno>
+            <idno type="EEBO-CITATION">11950297</idno>
+            <idno type="OCLC">ocm 11950297</idno>
+            <idno type="VID">51379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new confutation of Sadducism being a true narrative of the wonderful expressions and actions of a spirit which infested the house of Andrew Mackie of Ringcroft in the county of Galloway in Scotland, from February to May 1695 : containing, among other things, predictions as to future times in a letter writ with blood, and dropt by the said spirit / writ by Mr. Alexander Telfair.</title>
+                  <author>Telfair, Alexander.</author>
+               </titleStmt>
+               <extent>[4], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Bell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spirits.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51379:1" rendition="simple:additions"/>
+            <pb facs="tcp:51379:1" rendition="simple:additions"/>
+            <p>A New Confutation OF SADDUCISM.</p>
+            <p>BEING A true Narrative of the wonderful <hi>Expreſ<g ref="char:EOLhyphen"/>ſions</hi> and <hi>Actions</hi> of a SPIRIT which infeſted the Houſe of <hi>Andrew Mackie</hi> of <hi>Ringcroft</hi> in the County of <hi>Galloway</hi> in <hi>Scotland,</hi> from <hi>February</hi> to <hi>May</hi> 1695. ontaining, amongſt other things, Predictions as to future Times, in a Letter writ with Blood, and dropt by the ſaid Spirit.</p>
+            <p>Writ by Mr. <hi>ALEXANDER TELFAIR</hi> Miniſter of the Pariſh; and atteſted by many other Miniſters and Perſons of Credit, whoſe Atteſtation and Names are ſubjoined.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Andrew Bell,</hi> at the Sign of the Croſs-Keys in the <hi>Poultrey.</hi> 1696.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:51379:2"/>
+            <pb facs="tcp:51379:2"/>
+            <head>The PREFACE.</head>
+            <p>THE following Relation being publiſh'd in <hi>Scotland</hi> by a Reverend Miniſter, and atteſted by ſeveral other worthy Miniſters and Gentlemen, it's ſuppos'd that the publication of the ſame here may be every whit as neceſſary and uſeful as there; and that too for the very ſame Rea<g ref="char:EOLhyphen"/>ſon hinted by the Reverend Author in his Epiſtle to the Reader, <hi>viz.</hi> for the Confutation of growing Atheiſm, or at leaſt of Sad<g ref="char:EOLhyphen"/>duciſm, by which Men pretend to diſpute the Exiſtence of good and bad Spirits, and by conſequence the Being of an Hea<g ref="char:EOLhyphen"/>ven or an Hell, becauſe their luxuriant Principles and looſe Pra<g ref="char:EOLhyphen"/>ctices render them obnoxious to be excluded from the one, and condemned to the other; and therefore they conceive it to be their Intereſt that there ſhould be neither. There's no doubt but this Narrative will be entertain'd with the Scoffs and Flouts of our Deiſts and Socinians; who tho they do not think fit to own it, yet ſeem to have a mighty Propenſity towards the Opinion of their grand Patron <hi>Socinus, That the Souls of Men conti<g ref="char:EOLhyphen"/>nue in a State of inactivity and imperception till the Reſur<g ref="char:EOLhyphen"/>rection:</hi> And having once gone ſo far, they will be eaſily indu<g ref="char:EOLhyphen"/>ced to believe, that there's no Reſurrection at all, than which there cannot be a more powerful Attractive to Senſuality, the judicial Plague of our <hi>Beaus</hi> and <hi>Witts,</hi> whoſe practice of <hi>Let us eat and drink,</hi> &amp;c. <hi>for to morrow we muſt die,</hi> is the natural Conſequence of their looſe Principles. And indeed it's but very rational for ſuch Men to think it their Intereſt that there ſhould be no ſuch thing as a Reſurrection, when the Lord Chriſt, againſt whom they commit daily Outrages, by denying him to be God, muſt be their Judg; and it's no wonder that ſuch as ſhall then cry to the Hills and to the Mountains to cover them from the Face of the Lamb that ſits upon the Throne,
+<pb facs="tcp:51379:3"/> ſhould now ſeek for Cobweb Arguments to skreen their Conſci<g ref="char:EOLhyphen"/>ences from the direful Apprehenſions of his ſecond Coming. With ſuch Perſons there's but little hopes of prevailing; however if this Narrative connot convince them, it will ſerve as one more Teſtimony againſt them. They may cheat themſelves and delude others by their falſe Gloſſes and ridiculous Comments upon thoſe Texts which mention <hi>Witches,</hi> and thoſe who deal with <hi>Familiar Spirits,</hi> as being only <hi>Poiſoners or Miſtreſſes of the Bottle, and Juglers.</hi> It is not to be ſuppoſed that ſo many good and credible People as have from time to time atteſted what they have ſeen, heard and felt, as to the Operations of thoſe evil Spi<g ref="char:EOLhyphen"/>rits, are either all of them ſo ſilly as to be perpetually impos'd upon themſelves, or ſo wicked as to concur towards the impoſing upon others; of which the plainneſs of the following Narrative is a very good proof.</p>
+            <p>In the mean time let Scoffers do as they pleaſe, and go on and mock till their Bonds be made ſtrong. Thoſe who fear God will find reaſon, as is hinted by the Author, to bleſs him who hath ſent a ſtronger than the ſtrong Man, even the Lord Chriſt, to deſtroy the Works of the Devil, and triumph over thoſe Principalities and Powers, and ſpiritual Wickedneſſes, who ſeek, ſometimes by Force, and ſometimes by Fraud, to mar the Succeſs of the Go<g ref="char:EOLhyphen"/>ſpel. All Perſons, eſpecially Maſters of Families, may be hence<g ref="char:EOLhyphen"/>forewarn'd, not to neglect private and publick Prayer, leſt he who hath threatned to pour out his Fury upon thoſe Families which call not upon his Name, ſhould ſuffer the Devil to infeſt them in the ſame manner as here related, or worſe, in their Perſons, Fa<g ref="char:EOLhyphen"/>milies, and Eſtates. And ſuch as are free from thoſe dreadful Aſſaults and fiery Darts of the Tempter, may learn from their Neighbours Affliction to bleſs God, who hath not led them into the ſame Temptation, and ought to redouble their Prayers that they may be delivered from him who goes about as a roaring Li<g ref="char:EOLhyphen"/>on, ſeeking whom he may devour.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:51379:3"/>
+            <head>A new Confutation of Sadduciſm, <hi>&amp;c.</hi>
+            </head>
+            <p>IN order to ſatisfy ſuch as deſire to be informed, and to prevent the many falſe Reports concerning the Appa<g ref="char:EOLhyphen"/>rition and Actions of an evil Spirit which infeſted the Family of <hi>Andrew Mackie</hi> of <hi>Ringcroft</hi> in the Pariſh of <hi>Rerrick,</hi> I have undertaken this following Narrative, having been an Eye and Ear-Witneſs my ſelf to many of the things therein related, and taken the reſt upon the In<g ref="char:EOLhyphen"/>formation of others who had been Witneſſes in like manner to the ſeveral Paſſages which they gave an Account of. It was not an Itch to appear in Print that induced me to this Undertaking, but meerly to ſatisfy thoſe who thought it incumbent upon me, as Miniſter of the Pariſh, and as having had the beſt Opportunity to know the whole Affair by the frequent Viſits which I was obliged to give unto the afflict<g ref="char:EOLhyphen"/>ed Family, according to the Duty of mine Office.</p>
+            <p>Before I come to the Relation it ſelf, I find it neceſſary to premiſe ſome things concerning the various Conjectures as to what might be the Cauſe of the Trouble given to that Family by the wicked Spirit.</p>
+            <p n="1">1. It was given out that the ſaid <hi>Andrew Mackie,</hi> who is a Maſon<note n="*" place="margin">Stonecutter.</note> by Trade, devoted his firſt Child to the Devil, at his taking of the <hi>Maſon-Word</hi>
+               <note n="†" place="margin">A Secret re<g ref="char:EOLhyphen"/>ſerv'd by ſome of that Trade in <hi>Scotland</hi> to themſelves, which intitles thoſe that have it to ſome ſort of Privileges in the Society, but ſome way or o<g ref="char:EOLhyphen"/>ther the common People have en<g ref="char:EOLhyphen"/>tertain'd an ill Idea of it, as an Inchantment, De<g ref="char:EOLhyphen"/>viliſm, <hi>&amp;c.</hi>
+               </note>: But this is ſo far from being true, that he aſſures me he never took that <hi>Word,</hi> and moreover that he knows nothing of it. The Man is of good Morals, nor is there any thing known of his Conver<g ref="char:EOLhyphen"/>ſation, but what hath been honeſt, civil, and harmleſs. He delights in the Company of thoſe who are Religious; and by his publick Prayers in his Family, when infeſted by that evil Spirit, he gave great ſatisfaction to his honeſt Neigh<g ref="char:EOLhyphen"/>bours,
+<pb n="2" facs="tcp:51379:4"/> and Evidence that he hath been no ſtranger to that Duty. And as for his Wife and Children, there was never any thing laid to their Charge which might be look'd upon as a procuring Cauſe of this Affliction.</p>
+            <p n="2">2. It was alſo ſaid, that a Woman of an ill Name had left ſome Clothes, <hi>&amp;c.</hi> at that Houſe, in the cuſtody of the ſaid <hi>Andrew Mackie;</hi> and that the Woman dying, he or his Wife ſhould have detain'd them from her Friends. Where<g ref="char:EOLhyphen"/>upon I examin'd them ſtrictly concerning that Matter, and both of them declared, that the ſaid Woman left ſome things with them put up in a Sack, but they delivered the ſame as ſhe left it to her Friends, and did not ſo much as know what was in it.</p>
+            <p n="3">3. I am informed that there was one <hi>Macknaught</hi> who for<g ref="char:EOLhyphen"/>merly dwelt in that Houſe; and being under a Decay, both as to his Perſon and Goods, he ſent his Son to a Witch, who liv'd at <hi>Routing-Bridg,</hi> in the Pariſh of <hi>Iron-Gray,</hi> to know what might be the Cauſe of it: But the Youth meeting ſome Foreign Souldiers in his way, goes along with them to <hi>Flanders,</hi> and never return'd with his Anſwer. Some Years after there was one <hi>John Redick</hi> a Neighbour of <hi>Macknaught</hi>'s, that having occaſion to go beyond-Sea, met with young <hi>Macknaught</hi> in <hi>Flanders;</hi> who enquiring after his Father and other Friends, and underſtanding that <hi>John Redick</hi> was going Home, deſired him to acquaint his Father, or any other whom he ſhould find dwelling in <hi>Ringcroft,</hi> that they muſt take up the Threſhold of the Door and ſearch for a Tooth; which being found, they muſt burn, for none who dwelt in that Houſe would ever thrive till this was performed. But <hi>John Redick</hi> returning Home, and finding old <hi>Macknaught</hi> dead, and his Wife re<g ref="char:EOLhyphen"/>moved from the place, took no notice of the Matter, till he heard of the Spirit's infecting <hi>Andrew Mackie</hi>'s Family, and then he told it me.</p>
+            <pb n="3" facs="tcp:51379:4"/>
+            <p>But there was one <hi>Thomas Telfair</hi> who dwelt in that ſame Houſe for ſome Years, betwixt <hi>Macknaught</hi>'s Death, and <hi>Andrew Mackie</hi>'s Poſſeſſion of it; and being informed ſome other way of what the Witch had ſaid to <hi>Macknaught</hi>'s Son, he took up the Threſhold, found the Tooth, and and threw it into the Fire, where it burnt like ſo much Tallow. But he informs me, that he never had any trou<g ref="char:EOLhyphen"/>ble during his abode there, neither before nor after he burnt the Tooth. This is all that hath ever been alledged to be the occaſion of this Trouble; ſo that I think the true Cauſe is ſtill unknown, and ſhall now come to the Matter of Fact.</p>
+            <p>In <hi>February</hi> laſt, <hi>Andrew Mackie</hi> above-mentioned, found ſome young Cattel of his always let looſe in the Night, and their Bindings broke; which he conceived to proceed from their own unrulineſs, and therefore he made ſtronger Bindings of Withs for them, but they were broken ſtill: Then he began to ſuſpect that it proceeded from ſome other Cauſe, and therefore removed the Cattel to another Houſe; but the very firſt Night after he found one of the Beaſts tied with an hair Rope to one of the Beams of the Houſe, ſo light, that its Feet only touched the Ground, and it could no way move it ſelf, yet it received no hurt.</p>
+            <p>Some Nights after a great Quantity of Peat<note n="*" place="margin">Firing made of Earth.</note> was brought into the middle of the Houſe and ſet on fire, when all the Family was aſleep, and if the Smoke had not a<g ref="char:EOLhyphen"/>wak'd them, they had certainly been conſum'd in the Flames; but they extinguiſhed the Fire, and though they made a narrow ſearch, could neither hear nor ſee any A<g ref="char:EOLhyphen"/>gent.</p>
+            <p>On the 7th of <hi>March</hi> following there were Stones thrown into all the parts of the Houſe, but they could not diſcover from whence they came, nor what threw them;
+<pb n="4" facs="tcp:51379:5"/> and thus it continued till the Sabbath, throwing in at times both by Day and by Night, but chiefly in the Night<g ref="char:EOLhyphen"/>time.</p>
+            <p>On Saturday, the Family being all without-doors, the Children coming in ſaw ſomething like a Perſon ſitting by the Fire, with a Blanket about it; which frightned all of them but the youngeſt, who being about ten Years of Age, chid the reſt for being afraid, telling them, that if they bleſs'd themſelves they needed not fear; and per<g ref="char:EOLhyphen"/>ceiving the Blanket to be his own, bleſſes himſelf, and ſaying, Be what it will it hath nothing to do with my Blanket, he runs and pulls the Blanket away, but found nothing under it ſave a four-footed Stool turn'd up-ſide down.</p>
+            <p>On the Sabbath, <hi>March</hi> 11. the Pot-hooks and Hanger were carried out of the Chimney, and being wanted four days, they found them at laſt in a Cockloft, where they had ſearch'd for them ſeveral times before, but could not find them. This is atteſted by <hi>Charles Macklelan</hi>
+               <note n="*" place="margin">Lord of the Mannor.</note> Laird of <hi>Collin,</hi> and <hi>John Cairns</hi> of <hi>Hardhills.</hi>
+            </p>
+            <p>When it threw Stones at any Perſon, it was obſerved that they had not half their natural Weight: It threw them more frequently on the Sabbath than on other days, and more then too when any Body was at Prayer, and moſt<g ref="char:EOLhyphen"/>ly at the Perſon praying.</p>
+            <p>
+               <hi>Andrew Mackie</hi> having acquainted me with the Matter on the Sabbath Afternoon, I went to his Houſe on Tueſ<g ref="char:EOLhyphen"/>day after, where I ſtaid a conſiderable time, and pray'd twice with the Family, during which time there was no trouble. Then I came out with a Reſolution to go Home; but as I was ſpeaking to ſome Men at the end of the Barn, I ſaw two little Stones drop down on a Field a little from me; and forthwith ſome People came out of the Houſe, crying, that the Spirit was become as troubleſome there as ever: Whereupon I returned to the Houſe, and while I
+<pb n="5" facs="tcp:51379:5"/> was at Prayer, it threw ſeveral ſmall ſtones at me which did me no hurt.</p>
+            <p>After this it gave no farther diſturbance to the Family till the 18th day of <hi>March,</hi> that it began to throw Stones as before, but more frequently and of greater weight, ſo that they hurt more where they hit than thoſe it threw for<g ref="char:EOLhyphen"/>merly: And thus it continued to the 21ſt, when I went again to the Houſe, where it moleſted me mightily, threw Stones and divers other things at me, and beat me ſeveral times on the Shoulders and Sides with a great Staff, ſo that thoſe who were preſent heard the noiſe of the Blows. That ſame Night it pull'd off the ſide of a Bed, knock'd upon the Cheſts and Boards, as People do at a Door<note n="†" place="margin">
+                  <hi>Atteſted by</hi> Charles Mac<g ref="char:EOLhyphen"/>clelan <hi>of</hi> Col<g ref="char:EOLhyphen"/>line, William Mackminn, <hi>and</hi> John Tait <hi>of</hi> Torr.</note>. And as I was at Prayer, leaning on the ſide of a Bed, I felt ſomething thruſting my Arm up, and caſting my Eyes thitherward perceived a little white Hand and an Arm, from the Elbow down, but it vaniſhed preſently.</p>
+            <p>On the 22d it grew more troubleſome, both to the People of the Family, and to the Neighbours who came to viſit them; beat them with Stones and Staves, and com<g ref="char:EOLhyphen"/>pelled ſome of them to leave the Houſe, contrary to their Inclination<note n="*" place="margin">
+                  <hi>Atteſted by</hi> Charles Mack<g ref="char:EOLhyphen"/>clellan <hi>of</hi> Col<g ref="char:EOLhyphen"/>line, <hi>and</hi> Andr Tait <hi>of</hi> Torr.</note>.</p>
+            <p>It threw Stones at ſome People as they came to the Houſe, and would pelt them with Stones about the Yards; and ſometimes threw Stones at them as they went from the Houſe, as particularly at <hi>Thomas Telfair</hi> of <hi>Stoc<g ref="char:EOLhyphen"/>king.</hi>
+            </p>
+            <p>It wounded the above-named <hi>Andrew Mackie,</hi> the Ma<g ref="char:EOLhyphen"/>ſter of the Family, on the Forehead, and thruſt him ſeve<g ref="char:EOLhyphen"/>ral times by the Shoulders; which he ſeeming not to re<g ref="char:EOLhyphen"/>gard, it caught him by the Hair, and he felt ſomething like the Nails of one's Fingers ſcratch the Skin of his Head. And ſometimes it would drag People about the Houſe by their Clothes<note n="‖" place="margin">
+                  <hi>Atteſted by</hi> Andrew Tait</note>.</p>
+            <pb n="6" facs="tcp:51379:6"/>
+            <p>It caught <hi>John Keige,</hi> Miller of <hi>Achincairn,</hi> ſo faſt by the ſide, that he cried out to his Neighbours for help, ſay<g ref="char:EOLhyphen"/>ing, it would tear one of his Sides from him. That ſame Night it uncovered the Children as ſleeping in Bed, and beat them on the Hips, the Noiſe whereof was diſtinctly heard by the People in the Houſe, as if it had been done by a Man's Hand. The Bar of the Door, and other things, would move about the Houſe as if one had been carrying them in their Hand, yet nothing could be ſeen doing it<note n="†" place="margin">Atteſted by <hi>John Telfair</hi> of <hi>Achinleck,</hi> and others.</note>.</p>
+            <p>It rattled on the Cheſts and Bed-ſides with a Staff, and continued to throw Stones, and to beat the People with a Stick, till the 2d of <hi>April</hi> at night.</p>
+            <p>It would cry <hi>Huſh, Huſh,</hi> at the cloſe of every Sentence in Prayer; and whiſtle ſo diſtinctly, that the Dog would bark and run to the Door, as he us'd to do when any one whiſtled for him to ſet him on the Cattel.</p>
+            <p>
+               <hi>April</hi> 3. It whiſtled ſeveral times, and cry'd <hi>Huſh, Huſh,</hi> as is atteſted by <hi>Andrew Tait.</hi>
+            </p>
+            <p>
+               <hi>April</hi> 4. <hi>Charles Macclelan</hi> of <hi>Collin,</hi> Proprietor of the Houſe, and <hi>Andrew Mackie</hi> Maſter of the Family, went to a Meeting of Miniſters at <hi>Buttle,</hi> and gave them an Account of the Matter; whereupon thoſe Miniſters made publick Prayers for the Family, and two of their Number, <hi>viz.</hi> Mr. <hi>Andrew Aewart</hi> Miniſter of <hi>Kells,</hi> and Mr. <hi>John Murdo</hi> Miniſter of <hi>Carſmichael,</hi> went to the Houſe and ſpent that Night in Faſting and Prayer, during which time it was very outragious, and threw great Stones at them, ſome of them weighing about eight Pounds. It wounded Mr. <hi>Andrew Aewart</hi> twice in the Head, pull'd off his Wig in the time of Prayer; and as he was holding his Handkerchief betwixt his Hands, threw a Stone into it which forced it from him. It gave Mr. <hi>John Murdo</hi> ſeve<g ref="char:EOLhyphen"/>ral heavy Blows; but it was obſervable, that the Wounds and Bruiſes given by this Spirit were ſpeedily cured. It
+<pb n="7" facs="tcp:51379:6"/> threw a fiery Peat among the People, which however did them no hurt. It diſturb'd them chiefly in the time of Prayer; and in the Dawning, as they roſe from Prayer, it poured down Stones upon every one in the Houſe, and hurt them; ſo that there were none of the Company that Night who did not feel more or leſs of its Fury. This is atteſted by Mr. <hi>Andrew Aewart,</hi> Mr. <hi>John Murdo, Charles Mackleland</hi> and <hi>John Tait.</hi>
+            </p>
+            <p>On the 5th of <hi>April</hi> it ſet ſome bundles of Straw de<g ref="char:EOLhyphen"/>ſign'd for Thatch, on fire in the Yard. And that ſame Night, the Houſe being throng'd with Neighbours, it threw down Stones among them. And as <hi>Andrew Mac<g ref="char:EOLhyphen"/>kie</hi>'s Wife went to bring in ſome Peats for firing, ſhe found a broad Stone near the Door ſhake under her Foot, which ſhe had never perceived to be looſe before; whereupon ſhe reſolved to ſee what was beneath it next morning.</p>
+            <p>And accordingly, on the 6th of <hi>April,</hi> when the Houſe was quiet, ſhe took up the Stone, under which ſhe found ſeven ſmall Bones, with ſome Fleſh and Blood, wrapp'd up in a piece of old ſullied Paper; but being troubled and frightned at the ſight thereof, ſhe laid them down again, and ran to acquaint her Landlord <hi>Charles Macclelan</hi> of <hi>Collin</hi> with it, whoſe Houſe is about a quarter of a mile diſtant; during this time the Spirit raged more than ever, throwing Stones and Fire-balls in and about the Houſe, but the Fire vaniſh'd as it fell: It threw likewiſe an hot Stone into the Bed between the Children, which burnt through the Bed-clothes; and after it was taken out by <hi>Andrew Mackie</hi>'s eldeſt Son, and had lain above an hour and half on the Floor, <hi>Charles Macklelan</hi> of <hi>Collin;</hi> above<g ref="char:EOLhyphen"/>mentioned, was not able to hold it in his Hand it was ſo hot. It did alſo thruſt a Staff through the Wall of the Houſe, ſhaking the ſaid Staff over the Chidren in the
+<pb n="8" facs="tcp:51379:7"/> Bed, and groaned. The ſaid <hi>Charles Mackleland</hi> thinking it fit to go to Prayer before he took up the Bones, it raged cruelly all the while, but as ſoon as he took up the Bones, it ceaſed for that time, (as atteſted by <hi>Charles Mackleland</hi>). As ſoon as the Gentleman above-mentioned took up the Bones, he ſent them to me; upon which I went imme<g ref="char:EOLhyphen"/>diately to the Houſe, and while I was at Prayer, the Spi<g ref="char:EOLhyphen"/>rit threw great Stones, which hit, but did not hurt me, and it forbore giving us any farther trouble that Night.</p>
+            <p>
+               <hi>April</hi> the 7th, being Sabbath-day, it began again to throw Stones, and wounded <hi>William Mackminn</hi> a Black<g ref="char:EOLhyphen"/>ſmith on the Head; it did alſo throw a Plow-ſhare at him, and a Trough of above three ſtone Weight, which fell on his Back, and yet did not hurt him. That ſame Night it ſet the Houſe twice on fire, but it was ſpeedily quench'd by the aſſiſtance of the Neighbours. In the Evening, as <hi>John Mackie,</hi> eldeſt Son to <hi>Andrew</hi> above-mentioned, was com<g ref="char:EOLhyphen"/>ing to the Houſe, an extraordinary Light fell about him, and went before him to the Houſe, with a ſwift Motion, and that Night it continued to trouble the Houſe as uſu<g ref="char:EOLhyphen"/>ally. Atteſted by <hi>W. Mackminn</hi> and <hi>John Mackie.</hi>
+            </p>
+            <p>
+               <hi>April</hi> the 8th, as <hi>Andrew Mackie</hi> went through the Yard in the morning, he found a Letter written and ſeal'd with Blood, and directed on the back thus, 3 <hi>Years tho ſhall have to repent a net it well;</hi> and within was written, <hi>Wo be to the Cottland, repent and tak warning, for the Door of Haven ar all redy bart againſt the; I am ſent for a Warning to the to flee to God, yet troublt ſhall this Man be for twenty days, a</hi> 3 <hi>rpent repnent opent Scotland, or els tow ſhall.</hi>
+            </p>
+            <p>In the middle of the Day, all thoſe Perſons now alive, who had inhabited that Houſe ſince it was built, (which is about 28 Years) were ordered by the Civil Magiſtrate to appear before the Laird of <hi>Colline</hi> above-mentioned, my
+<pb n="9" facs="tcp:51379:7"/> ſelf and others; and becauſe there was ſome ſuſpicion that a ſecret Murder had been committed in the Place, they were all of them obliged to touch the Bones, but no diſ<g ref="char:EOLhyphen"/>covery was thereby made.</p>
+            <p>On the 9th of <hi>April</hi> the Letter and Bones were ſent to a meeting of Miniſters at <hi>Kirkubright,</hi> and they ap<g ref="char:EOLhyphen"/>pointed five of their Number, <hi>viz.</hi> Mr. <hi>John Murdo,</hi> Mr. <hi>James Monteith,</hi> Mr. <hi>John Mackmillan,</hi> Mr. <hi>Samuel Spalding,</hi> and Mr. <hi>William Falconer,</hi> to go with me to the Houſe, and ſpend ſome time in Faſting and Prayer.</p>
+            <p>On the 10th we went accordingly, and I no ſooner began to open my Mouth, but it threw Stones at me, and all the reſt that were in the Houſe, but always moſt at him who was at Prayer: It did frequently make the whole Houſe to ſhake, broke an Hole through the Roof, <hi>&amp;c.</hi> and threw in great Stones, one of which being above a Quarter weight, fell upon Mr. <hi>James Monteith</hi>'s Back, without doing him any hurt; it threw another at him as big as a Man's Fiſt with great force while he was at Prayer, which hit him on the Breaſt, but did neither hurt nor di<g ref="char:EOLhyphen"/>ſturb him. It was thought fit that one of the Miniſters, with another Perſon, ſhould go out by turns and ſtand under the Hole on the outſide, whereupon it forbore throwing in any more Stones at that place: But the Barn being joined to the end of the Houſe, it forced open the Barn-door, broke down the Partition-wall, and threw Stones into the Houſe that way, but without doing much hurt to the People.</p>
+            <p>After that it took hold of ſome of them by the Legs as if it had been with a Man's Hand; it hoiſted up the Feet of others while ſtanding on the Ground; and thus it did to <hi>William Lennox</hi> Laird of <hi>Millhouſe,</hi> to my ſelf and o<g ref="char:EOLhyphen"/>thers, and continued troubling the People in that man<g ref="char:EOLhyphen"/>ner till ten a Clock at Night; but after that it deſiſted
+<pb n="10" facs="tcp:51379:8"/> while we were about the Houſe. Atteſted by Mr. <hi>James Monteith,</hi> Mr <hi>John Murdo,</hi> Mr. <hi>Samuel Spalding,</hi> Mr. <hi>Fal<g ref="char:EOLhyphen"/>coner, William Lennox,</hi> and <hi>John Tait.</hi>
+            </p>
+            <p>On the 11th, 12th, and 13th, it raged more than ever, and none who came into the Houſe during that time eſcaped heavy Blows. <hi>Andrew Tait</hi> of <hi>Torr</hi> coming to ſtay with the Family one of theſe Nights, his Dog catcht a Fulmard by the way, which <hi>Andrew</hi> threw aſide when he came into the Houſe; and three more young Men com<g ref="char:EOLhyphen"/>ing in alſo to bear the Family company, the evil Spirit beat all of them with the dead Fulmard as they were at Prayer; at which the three who came in laſt, and knew nothing of the Fulmard, were much affrighted, eſpecially one of them called <hi>Samuel Thomſon,</hi> whom it grip'd hard by the Side and Back, and thruſt an Hand, as he con<g ref="char:EOLhyphen"/>ceived, beneath his Clothes and into his Pocket, which frightned him ſo much, that he fell ſick upon it immediate<g ref="char:EOLhyphen"/>ly. Atteſted by <hi>Andrew Tait.</hi>
+            </p>
+            <p>On the 14th being Sabbath-day, the evil Spirit ſet fire to ſome Straw that was in the Corn-yard, and continued throwing Stones till ten a Clock at Night. It did alſo throw a ditching Spade at <hi>Andrew Mackie,</hi> with the Mouth towards him, but he received no hurt by it. After this it toſs'd a Meal-ſive about the Houſe, which <hi>Andrew Mackie</hi> catch'd at, and with much difficulty kept his hold; then it tore the Sive from the Rim, and wrapping it up together, threw it at <hi>Thomas Robertſon</hi> of <hi>Airds,</hi> by whom this Paſſage is atteſted.</p>
+            <p>On the 15th of <hi>April, William Anderſon</hi> a Graſier, and <hi>James Paterſon</hi> his Son-in-Law, came to the Houſe with the Laird of <hi>Colline;</hi> and the Latter going home at Night, <hi>Andrew Mackie</hi> ſent his Sons to wait on him, who as they return'd, were cruelly ſtoned by the Spirit, and the Stones did ſo tumble amongſt their Legs, that they were in hazard
+<pb n="11" facs="tcp:51379:8"/> of being broke by them. A little after they returned to the Houſe, it wounded <hi>William Anderſon</hi> in the Head, and oc<g ref="char:EOLhyphen"/>caſioned him to bleed very much. In time of Prayer it whiſtled, groan'd, and cryed, <hi>Huſh, Huſh.</hi> Atteſted by <hi>John Cairns.</hi>
+            </p>
+            <p>On the 16th it continued whiſtling, groaning, and throwing Stones in time of Prayer, crying alſo, <hi>Bo, Bo, Kick, Cuck,</hi> pulling the Men backward and forward, and hoiſting them up from their Knees. Atteſted by <hi>An<g ref="char:EOLhyphen"/>drew Tait.</hi>
+            </p>
+            <p>That Night <hi>Andrew Mackie</hi> and his Family left the Houſe and went to a Neighbour's, deſiring five of his Friends to ſtay in the Houſe, but it did no hurt that night, neither to thoſe left in the Houſe, nor to <hi>Andrew Mackie</hi> and his Family, nor the Neighbour's where they lodged, only it threw <hi>Andrew Mackie</hi>'s Cattel upon one another, as they were faſtned to their Stakes, which had like to have killed them, and ſome of them it let looſe. Atteſted by <hi>John Cairns.</hi>
+            </p>
+            <p>On the 18th <hi>Andrew Mackie</hi> and his Family returned to the Houſe, and received no hurt that night, only it tied ſome Sheep (which were at a little Houſe at the diſtance of three or four pair of Butts) together in pairs by the Neck, with Ropes made of Straw that it had taken from the Stable, and left ſome Ropes behind which it did not make uſe of. Atteſted by <hi>Andrew Tait.</hi>
+            </p>
+            <p>On the 19th it ſet fire to the Straw in the Barn where <hi>Andrew Mackie</hi> was threſhing, but he put it out before it did any dammage; and then it thruſt Staves through the Wall at him, but did him no hurt.</p>
+            <p>On the 20th it continued throwing Stones, whiſtling and huſhing, and uſing all its former words. When it hit any body, it ſaid, <hi>Take you that till you get more,</hi> then it would certainly hit them again; but when it ſaid only
+<pb n="12" facs="tcp:51379:9"/> 
+               <hi>take you that,</hi> then it deſiſted throwing at that Perſon for ſome time. Atteſted by <hi>John Tait.</hi>
+            </p>
+            <p>On the 21ſt, 22d, and 23d, it continued throwing ſtones, beating with Staves, and throwing Mud in the Faces of all that were in the Houſe, eſpecially in time of Prayer.</p>
+            <p>On the 24th, which was appointed to be kept as a Day of Humiliation by the Pariſh upon that Account, it con<g ref="char:EOLhyphen"/>tinued throwing ſtones from morning to night in a moſt fearful manner, without intermiſſion, ſo that all in the Houſe were afraid of being killed.</p>
+            <p>On the 25th it threw ſtones all night, but did no great hurt.</p>
+            <p>On the 26th it threw ſtones in the Evening, knocked ſe<g ref="char:EOLhyphen"/>veral times on the Cheſts, began to ſpeak, and call thoſe who were then in the Houſe, <hi>Witches</hi> and <hi>Rooks,</hi> ſaying, <hi>it would take them to Hell.</hi> Whereupon the People ſaid a<g ref="char:EOLhyphen"/>mong themſelves, that it would now ſpeak if it had any to ſpeak to it. Then they awak'd <hi>Andrew Mackie,</hi> the Maſter of the Houſe; who hearing it ſay, <hi>Thou ſhalt be troubled till Tueſday,</hi> asked, Who gave it a Commiſſion? To which it anſwered, <hi>God gave me a Commiſſion, and I am ſent to warn the Land to repent; for a Judgment is to come if the Land do not quickly repent, and commanded him to reveal it upon his Peril: And if the Land did not repent, it ſaid it would go to its Father, and get a Commiſſion to return with an hundred worſe than it ſelf, and would trouble every particular Family in the Land.</hi>
+            </p>
+            <p>Upon which <hi>Andrew Mackie</hi> ſaid to the Company, if I ſhould tell this, no body would believe me. Then it an<g ref="char:EOLhyphen"/>ſwered, <hi>Fetch Betters, fetch the Miniſter of the Pariſh and two honeſt Men upon Tueſday night, and I ſhall declare before them what I have to ſay.</hi> After which it ſaid, <hi>Praiſe me, and I will whiſtle to you; worſhip me, and I will trouble you
+<pb n="13" facs="tcp:51379:9"/> no more. Andrew Mackie</hi> anſwered, The Lord who deli<g ref="char:EOLhyphen"/>vered the three Children out of the fiery Furnace, deliver me and mine this Night from the Temptations of Satan: then it replied, <hi>You might as well have ſaid,</hi> Shadrach, Me<g ref="char:EOLhyphen"/>ſhech, <hi>and</hi> Abednego.</p>
+            <p>While <hi>Andrew Mackie</hi> was ſpeaking, one <hi>James Telfair</hi> of <hi>Buttle</hi> offer'd to put in a word; whereupon the Spirit told him, <hi>You are baſely bred, meddling in other Mens Diſcourſe wherein you are not concerned.</hi> It likewiſe ſaid, <hi>Remove your Goods, for I will burn the Houſe.</hi> He anſwered, The Lord ſtop Satan's Fury, and hinder him of his Deſigns. It re<g ref="char:EOLhyphen"/>plied, <hi>I will do it, or you ſhall guide well.</hi> Atteſted by <hi>John Tait</hi> of <hi>Torr,</hi> and ſeveral others.</p>
+            <p>On the 27th it ſet the Houſe on fire ſeven times; and on the 28th, which was Sabbath-day, it continued ſetting fire to the Houſe, from Sun-riſing to Sun-ſetting; and as it was quenched in one part, it was inſtantly ſet on fire in a<g ref="char:EOLhyphen"/>nother; and when it could not get its Deſign of burning the Houſe accompliſh'd, it pull'd down one end of it in the Evening, ſo that the People could not ſtay in it any longer, but went and kindled their Fire in the Stable.</p>
+            <p>On the Sabbath-night it pulled one of the Children out of the Bed; and catching hold of him, as he thought, by the Neck and Shoulders, took up a great Log of Wood, and holding it over the Children, ſaid, <hi>If I had a Commiſ<g ref="char:EOLhyphen"/>ſion I would brain them:</hi> This was heard by all the People in the Houſe, and atteſted by <hi>William Mackminn</hi> and <hi>John Corsby.</hi>
+            </p>
+            <p>On the 29th, being Monday, it continued ſetting fire to the Houſe ſo frequently, that <hi>Andrew Mackie</hi> being weary with quenching it, he put out all the Fire about the Houſe, and poured Water on the Hearth; yet it ſet the Houſe on fire again ſeveral times, tho there was no fire to be had within a quarter of a Mile of the Houſe. Atteſted
+<pb n="14" facs="tcp:51379:10"/> by <hi>Charles Macclelan</hi> and <hi>John Cairns.</hi>
+            </p>
+            <p>About the middle of that Day, as <hi>Andrew Mackie</hi> was threſhing in the Barn, it whiſpered in the Wall, and then cried, <hi>Andrew, Andrew,</hi> but he gave no anſwer to it: Then with an auſtere angry Voice it bid him ſpeak; but he kept ſilent: Then it ſaid, <hi>Be not troubled, you ſhall have no more trouble, except ſome throwing of Stones upon the Tueſ<g ref="char:EOLhyphen"/>day to fulfil the Promiſe;</hi> and then bid him <hi>take away the Straw.</hi>
+            </p>
+            <p>I came to the Houſe much about that time, after which it ſet fire to the ſame once. I ſtaid there till between three and four of the Clock on Tueſday morning, during which time there was no trouble about the Houſe, except that two little ſtones drop'd down by the fire at our firſt com<g ref="char:EOLhyphen"/>ing in; but a little after I went away, it began to throw ſtones as formerly. Atteſted by <hi>Charles Mackleland</hi> and <hi>John Tait.</hi>
+            </p>
+            <p>On Tueſday night, being the third of <hi>April, Charles Macklellan</hi> of <hi>Colline,</hi> with ſeveral Neighbours, being in the Barn at Prayers, he obſerved a black thing in the corner of the ſame, which increaſed gradually as if it would have fill'd the whole Houſe; he could not diſcern any diſtinct Form it had, but only that it reſembled a black Cloud: It was very frightning to them all, and threw Barley Chaff, and Mud in their Faces. It did alſo gripe ſome of them by the Middle, Arms, and other Parts, ſo hard, that for five days after they thought they felt thoſe Gripes; and a<g ref="char:EOLhyphen"/>bout two hours after it grew dark, it ceaſed troubling them any further for that night. Atteſted by <hi>Charles Macklelan, Thomas Mackminn, Andrew Palin, John Cairns,</hi> and <hi>John Tait.</hi>
+            </p>
+            <p>On Wedneſday night, being the 1ſt of <hi>May,</hi> it fired a little Sheep-houſe, which was intirely conſumed, but the Sheep were got out ſafe, and ſince that time it never gave
+<pb n="15" facs="tcp:51379:10"/> any farther trouble to <hi>Ringcroft.</hi> All theſe things being of undoubted Verity, I conclude with that of the Apoſtle, 1 Pet. 5.8, 9. <hi>Be ſober, be vigilant, becauſe your Adverſary the Devil as a roaring Lion, walketh about ſeeking whom he may devour; whom reſist ſtedfaſt in the Faith.</hi>
+            </p>
+            <list>
+               <head>The Particulars of this Relation are ſeverdly atteſted by thoſe who were Witneſſes to the reſpective Parts of it, <hi>viz.</hi>
+               </head>
+               <item>Mr. <hi>Andrew AEwart</hi> Miniſter of <hi>Kel.</hi>
+               </item>
+               <item>Mr. <hi>James Monteith</hi> Miniſter of <hi>Borg.</hi>
+               </item>
+               <item>Mr. <hi>John Murdo</hi> Miniſter of <hi>Carſmichel.</hi>
+               </item>
+               <item>Mr. <hi>Samuel Spalding</hi> Miniſter of <hi>Parn.</hi>
+               </item>
+               <item>Mr. <hi>William Falconer</hi> Miniſter of <hi>Keln.</hi>
+               </item>
+               <item>
+                  <hi>Charles Macklellan</hi> Laird of <hi>Colline.</hi>
+               </item>
+               <item>
+                  <hi>William Lennox</hi> Laird of <hi>Milhouſe.</hi>
+               </item>
+               <item>
+                  <hi>Andrew Tait</hi> of <hi>Torr.</hi>
+               </item>
+               <item>
+                  <hi>John Tait</hi> of <hi>Torr.</hi>
+               </item>
+               <item>
+                  <hi>John Cairns</hi> of <hi>Hardhills.</hi>
+               </item>
+               <item>
+                  <hi>William Mackminn.</hi>
+               </item>
+               <item>
+                  <hi>Andrew Palin,</hi> &amp;c.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
